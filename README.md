@@ -92,7 +92,7 @@ Ayush Kumar: Frequency Extraction, Final Result Compilation
 🙏 Conclusion:
 Our analysis verifies that the stellar data follows Benford’s Law, indicating high data authenticity and reliability for further astrophysical research.
 
-Would you also like this as a downloadable .txt or .md file?
+
 
 
 
